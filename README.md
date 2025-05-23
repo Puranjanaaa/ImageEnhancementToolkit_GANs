@@ -134,5 +134,3 @@ coursework-comp5013-tofuonmars/
 ## 👥 Contributors
 
 - [Puranjana Wijayarathna](https://github.com/puranjanaaa)
-- [Himeth Sanjula](https://github.com/HimethSanjula11)
-- [Tanvi Lakhani](https://github.com/Tanvilakhani)
