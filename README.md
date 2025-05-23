@@ -127,10 +127,8 @@ coursework-comp5013-tofuonmars/
 - [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 - TThis project is built on top the work of https://github.com/timec21/image-restoration.git
 
-## ⚖️ License
 
-[MIT License](LICENSE)
 
-## 👥 Contributors
+## Contact
 
-- [Puranjana Wijayarathna](https://github.com/puranjanaaa)
+- [Puranjana Wijayarathna](https://github.com/puranjanaaa) : puranja@gmail.com
