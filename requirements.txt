@@ -1,0 +1,12 @@
+# Exact versions from successful installation
+torch==2.7.0
+torchvision==0.22.0
+matplotlib==3.10.1
+PyQt5==5.15.11
+
+# Dependencies with exact versions
+typing-extensions==4.13.2
+numpy==2.2.5
+pillow==11.2.1
+PyQt5-sip==12.17.0
+PyQt5-Qt5==5.15.16
